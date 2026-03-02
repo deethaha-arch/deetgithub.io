@@ -3,7 +3,7 @@ layout: default
 title: Rs Deetchanaasri | Law Student
 ---
 
-<link rel="stylesheet" href="assets/css/styles.css">
+href="assets/css/styles.css">
 
 <div class="container">
 
